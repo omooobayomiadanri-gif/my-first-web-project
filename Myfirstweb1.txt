@@ -124,6 +124,7 @@
   <header>
     <h1>Paws & Whiskers Hub</h1>
     <p>Your Community for Paws, Whiskers & Friendship</p>
+    <p>Updated This Web To Practice Git Workflow</p>
   </header>
 
   <!-- Navigation -->
@@ -132,6 +133,7 @@
     <a href="#stories">Stories</a>
     <a href="#gallery">Gallery</a>
     <a href="#contact">Contact</a>
+    <a href="#Pages">Pages</a>
   </nav>
 
   <!-- Hero Section -->
@@ -161,6 +163,12 @@
     <p>Have a story, picture, or tip to share? Reach out to us at 
       <a href="mailto:hello@pawswhiskershub.com">hello@pawswhiskershub.com</a>.
     </p>
+  </section>
+
+  <!-- Pages Section -->
+  <section id="Pages">
+     <h2>Pages</h2>
+     <p>Great Stories For All</p>
   </section>
 
   <!-- Footer -->
